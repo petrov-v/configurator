@@ -1,2 +1,7 @@
 test:
   first: New one
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
